@@ -1,0 +1,2 @@
+# Simulation-of-a-mobile-telephony-network
+Mobile telephony network is essential for modern life, but Company SimTel has received some complaints about the dropping and blocking from customers on the highway.      In order to improve the system by decreasing the block and drop rate under a certain standard,  we build models to simulate in Arena. By comparing three models, we conclude that it is a superior scheme to reserve channel used first for handover.
